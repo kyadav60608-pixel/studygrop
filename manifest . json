@@ -1,0 +1,10 @@
+{
+  "name": "StudyConnect",
+  "short_name": "StudyConnect",
+  "description": "Student Community App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "orientation": "portrait"
+}
